@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/one/","tags":["🗺️","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/inbox/one/","tags":["🗺️","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
