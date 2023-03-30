@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/one/","tags":["🗺️","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Inbox/One/","tags":["🗺️","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -11,8 +11,3 @@
 - [[PKM\|PKM]]
 - [[想法\|想法]]
 - [[商业\|商业]]
-
-```dataview
-LIST WHERE file.mtime >= date(today) - dur(10 day) sort file.mtime
-desc limit (5)
-```
