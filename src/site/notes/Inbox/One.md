@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Inbox/One/","tags":["🗺️","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Inbox/One/","tags":["🗺️","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -11,3 +11,6 @@
 - [[PKM\|PKM]]
 - [[想法\|想法]]
 - [[商业\|商业]]
+
+- [[Inbox/One\|One]]
+- [[Templates/tags\|tags]]
