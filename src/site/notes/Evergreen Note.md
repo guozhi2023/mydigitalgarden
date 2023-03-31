@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/Evergreen Note/","title":"Evergreen Note","tags":["📥"]}
 ---
 
-
-# [[Evergreen Note\|Evergreen Note]]
-
 ---
-
-
 ## 本质上是一种原子化的笔记，一次一件事。
  这样能有效的 Get 到事情的全部，也方便和其他内容建立，也容易方便在不同的话题中建立联系。太宽泛很难聚焦，太零碎会让链接模糊（可以参考 ⚛️卡片盒（Zettelkasten）笔记法 ）
  
@@ -25,6 +20,4 @@
 - 标签: 
 	- 【[[🥇知识管理\|🥇知识管理]]]】
 - 参考资料:
-	- 
-- 相关主题:
 	- 
