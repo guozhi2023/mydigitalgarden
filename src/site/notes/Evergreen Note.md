@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Evergreen Note/","title":"Evergreen Note","tags":["📥"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Evergreen Note/","title":"Evergreen Note","tags":["📥"]}
 ---
 
 
