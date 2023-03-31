@@ -10,6 +10,8 @@
 【[[🥇知识管理\|🥇知识管理]]]】
 
 > [!abstract]最近更新
-> ```dataview
+```
+dataview
 LIST WHERE file.mtime >= date(today) - dur(10 day) sort file.mtime
 desc limit (5)
+```
