@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/One/","tags":["🗺","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/One/","tags":["🗺","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -9,9 +9,7 @@
 
 【[[🥇知识管理\|🥇知识管理]]]】
 
-
-- [[🥇知识管理\|🥇知识管理]]
-- [[布鲁姆提出教育目标分类理论\|布鲁姆提出教育目标分类理论]]
-- [[向大厨学习终极原则：Mise en place\|向大厨学习终极原则：Mise en place]]
-- [[One\|One]]
-- [[P.A.R.A.\|P.A.R.A.]]
+> [!abstract]最近更新
+> ```dataview
+LIST WHERE file.mtime >= date(today) - dur(10 day) sort file.mtime
+desc limit (5)
