@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
   
@@ -23,4 +23,5 @@
 - [[👩🏻‍🍳美食\|👩🏻‍🍳美食]]: 🏷
 - [[📷摄影\|📷摄影]]: 🏷
 
+{ .block-language-dataview}
 
