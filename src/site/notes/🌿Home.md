@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry"]}
+{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry","gardenEntry"]}
 ---
 
   
@@ -12,16 +12,16 @@
 
 # 🗺知识地图
 - [[🏊健康\|🏊健康]]: 🗺
-- [[📖读书\|📖读书]]: 🗺
 - [[Utility/第二大脑\|第二大脑]]: 🗺
 - [[🌿Home\|🌿Home]]: 🗺
 - [[🦦兴趣\|🦦兴趣]]: 🗺
 - [[⌛项目\|⌛项目]]: 🗺
+- [[📖读书\|📖读书]]: 🗺
 - [[🏃减肥\|🏃减肥]]: 🏷
-- [[💲金融\|💲金融]]: 🏷
-- [[🥇方法\|🥇方法]]: 🏷
 - [[👩🏻‍🍳美食\|👩🏻‍🍳美食]]: 🏷
 - [[📷摄影\|📷摄影]]: 🏷
+- [[🥇方法\|🥇方法]]: 🏷
+- [[💲金融\|💲金融]]: 🏷
 
 { .block-language-dataview}
 
