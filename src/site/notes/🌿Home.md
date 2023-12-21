@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/🌿Home/","title":"Guozhi's🌿数字花园","tags":["🗺","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
   
@@ -17,11 +17,11 @@
 - [[🦦兴趣\|🦦兴趣]]: 🗺
 - [[📖读书\|📖读书]]: 🗺
 - [[⌛项目\|⌛项目]]: 🗺
-- [[🥇方法\|🥇方法]]: 🏷
 - [[🏃减肥\|🏃减肥]]: 🏷
 - [[💲金融\|💲金融]]: 🏷
-- [[👩🏻‍🍳美食\|👩🏻‍🍳美食]]: 🏷
 - [[📷摄影\|📷摄影]]: 🏷
+- [[🥇方法\|🥇方法]]: 🏷
+- [[👩🏻‍🍳美食\|👩🏻‍🍳美食]]: 🏷
 
 { .block-language-dataview}
 
